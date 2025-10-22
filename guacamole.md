@@ -2,6 +2,6 @@
 #Tomatoes
 #Other stuff
 #basilikum
-#pepper
+#lemon
 
 ##instructions 
