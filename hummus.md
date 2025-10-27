@@ -1,9 +1,11 @@
+Should we mabye just do chinese cooking?
+
 # Hummus
 **Hummus is great!**
 ## Ingredients
-- Chickpeas
-- Vinegar
-- Lemon
+- Soy
+- Noodles
+- Chili
 - Salt
 - Pepper
 - Tahin
