@@ -4,8 +4,6 @@
 - Chickpeas
 - Vinegar
 - Lemon
-- Salt
-- Pepper
 - Tahin
 - Garlic
 - Olive oil
@@ -14,4 +12,9 @@
 - Puree chickpeas
 - Add everything else into blender
 - Blend until desired consistency
-- Tip: Add ice cubes to make it creamier
+
+## Serving tips
+Hummus is great to eat with bread, but also as a game night snack with cucumber and carrot sticks.
+
+## History of Hummus
+
