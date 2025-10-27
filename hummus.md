@@ -1,4 +1,5 @@
 # Hummus
+**Hummus is great!**
 ## Ingredients
 - Chickpeas
 - Vinegar
@@ -7,6 +8,7 @@
 - Pepper
 - Tahin
 - Garlic
+- Olive oil
 
 ## Instructions
 - Puree chickpeas
